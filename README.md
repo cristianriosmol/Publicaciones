@@ -1,4 +1,4 @@
-<h1 align="left">Hi, here you will find my contributions as an author.</h1>
+<h1 align="left">Here Be Papers</h1>
 <h3 align="left">1. In main, published research in PDF.</h3>
 <h3 align="left">2. Citation and DOI link:</h3>
 <m3 align="left">
